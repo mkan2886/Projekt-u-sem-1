@@ -1,0 +1,25 @@
+Product 1001 Vanilla_Scented_Candle 50 pcs 25.00
+BOM 1001 Cotton_Wick 50 pcs Cotton 0.50
+BOM 1001 Soy_Wax 25 kg Soy 10.00
+BOM 1001 Vanilla_Scented_Oil 2 l Vanilla 15.00
+
+Product 1002 Lavender_Scented_Candle 30 pcs 27.00
+BOM 1002 Cotton_Wick 30 pcs Cotton 0.50
+BOM 1002 Beeswax 15 kg Wax 12.00
+BOM 1002 Lavender_Scented_Oil 2 l Lavender 15.00
+
+Product 1003 Unscented_Candle 100 pcs 20.00
+BOM 1003 Cotton_Wick 100 pcs Cotton 0.50
+BOM 1003 Paraffin_Wax 50 kg Petroleum 8.00
+
+Product 1004 Exclusive_Rose_Candle 20 pcs 35.00
+BOM 1004 Wooden_Wick 20 pcs Wood 1.00
+BOM 1004 Soy_Wax 10 kg Soy 10.00
+BOM 1004 Rose_Scented_Oil 1 l Rose 25.00
+BOM 1004 Rose_Petals 5 kg Rose 30.00
+
+Product 1005 Soy_Lemon_Candle 40 pcs 26.00
+BOM 1005 Cotton_Wick 40 pcs Cotton 0.50
+BOM 1005 Soy_Wax 20 kg Soy 10.00
+BOM 1005 Lemon_Scented_Oil 2 l Lemon 17.00
+
